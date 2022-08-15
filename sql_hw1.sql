@@ -39,7 +39,7 @@ create table products(
 );
 #DML
 #Add new row to the countries table.
-insert into countries values (966,'Saudi Arabia','Asia');
+insert into countries values (10,'Saudi Arabia','Asia');
 # Add new row to the users table.
 insert into users values(10,'Haya Almalki','Haya@gmail.com','f','23-01-1996',now(),10);
 # Add new row to the orders table.
